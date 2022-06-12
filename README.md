@@ -45,6 +45,9 @@ Me : ["I'm a Backend(python) developer",
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloOsorix&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Contact me
+[<img src="https://scontent.fbog12-1.fna.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=rRhTGlprLewAX9lZFaU&_nc_oc=AQkneWntFtX8k4bTdMAa8jRBNSKoITrV29k5Hu989wtSx9oUhNZG6nXuXHsnagrm9jk&_nc_ht=scontent.fbog12-1.fna&oh=00_AT_e0QKKvBBId3p15lksqXvwz3h4nUh-a2tzd_pP-zySsw&oe=62A964AB" width="40" height="40"/>](https://www.linkedin.com/in/pablo-osorio-2747b021a/)
+
 
 <!--
 **PabloOsorix/PabloOsorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
