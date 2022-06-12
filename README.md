@@ -29,7 +29,7 @@ Me : ["I'm a Backend(python) developer",
               "GitHub",
               "Nginx".
               ]
-"Phylosofy" : "If you don't know how to do it you can learn it",
+"Philosophy" : "If you don't know how to do it you can learn it",
               "Never stop learning (Freddy Vega)."
 
 }
