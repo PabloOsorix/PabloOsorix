@@ -1,5 +1,5 @@
 ## :turtle:Hi I'm Pablo a Python Developer.  :chart: 
-### :sun_with_face::cat:Looking to be amazing. :cactus: :deciduous_tree: <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+### <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />:sun_with_face::cat:Looking to be amazing. :cactus: :deciduous_tree: 
 
 ```python
 about_me = {
