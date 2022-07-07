@@ -14,7 +14,7 @@ Me : ["I'm a Backend(python) developer",
               "C(Pure)",
               "Bash($)",
               "Shell script",
-              "Golang(In process)",
+              "Golang",
               "JavaScript Vanilla(Basic)"
               ]
 "Frameworks" : [ "Flask", "SQLAlquemy" ]
