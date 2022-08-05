@@ -17,7 +17,7 @@ Me : ["I'm a Backend(python) developer",
               "Golang",
               "JavaScript Vanilla(Basic)"
               ]
-"Frameworks" : [ "Flask", "SQLAlquemy" ]
+"Frameworks" : [ "Flask", "SQLAlquemy",   "Gin", "Gorm" ]
 "Soft_skills" : [
                 "Self_study."
                 "Leadership."
