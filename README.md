@@ -45,7 +45,7 @@ Me : ["I'm a Backend(python) developer",
 
 
 ## Contact me
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLinkedIn%2F&psig=AOvVaw2WmGc4U0IYhmoYHx-7TfIP&ust=1668999692921000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOip0cDiu_sCFQAAAAAdAAAAABAE" width="40" height="40"/>](https://www.linkedin.com/in/pablo-osorio-2747b021a/)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALinkedIn_Logo.svg&psig=AOvVaw2WmGc4U0IYhmoYHx-7TfIP&ust=1668999692921000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOip0cDiu_sCFQAAAAAdAAAAABAO" width="40" height="40"/>](https://www.linkedin.com/in/pablo-osorio-2747b021a/)
 
 
 <!--
