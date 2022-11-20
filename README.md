@@ -10,14 +10,14 @@ Me : ["I'm a Backend(python) developer",
  
 "Languajes" : [
               "Python",
+              "Golang",
               "SQL",
               "C(Pure)",
               "Bash($)",
               "Shell script",
-              "Golang",
               "JavaScript Vanilla(Basic)"
               ]
-"Frameworks" : [ "Flask", "SQLAlquemy",   "Gin", "Gorm" ]
+"Frameworks" : [ "Django", "Django rest-framework", "Flask", "SQLAlquemy",   "Gin", "Gorm" ]
 "Soft_skills" : [
                 "Self_study."
                 "Leadership."
