@@ -35,13 +35,13 @@ Me : ["I'm a Backend(python) developer",
 ```
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloOsorix&layout=compact&hide=HTML&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloOsorix&layout=compact&hide=HTML&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Last Project. 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloOsorix&repo=AirBnB_clone_v4&theme=radical&show_owner=PabloOsorix)](https://github.com/PabloOsorix/AirBnB_clone_v4)  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40" height="40" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloOsorix&repo=AirBnB_clone_v4&theme=github_dark&show_owner=PabloOsorix)](https://github.com/PabloOsorix/AirBnB_clone_v4)  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40" height="40" />
 
 ## Stats.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloOsorix&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloOsorix&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact me
