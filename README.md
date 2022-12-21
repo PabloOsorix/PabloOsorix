@@ -45,7 +45,7 @@ Me : ["I'm a Backend(python) developer",
 
 
 ## Contact me
-[<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALinkedIn_Logo.svg&psig=AOvVaw2WmGc4U0IYhmoYHx-7TfIP&ust=1668999692921000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOip0cDiu_sCFQAAAAAdAAAAABAO](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOiR%2FdenRTBmUAzyrTzXpug%3D%3D)" width="40" height="40"/>](https://www.linkedin.com/in/pablo-osorio-developer/)
+[<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAYFBMVEUAd7f///8AcLQAbLIAdbayzuOev9uOttcAcrW81edyps74+/1inMpMjMGsx+AAbrPm7/ZEjsIUfro7hL0AabGpwt3x9/troMuHsdQAZrDc6fMrfrrO3+1/qdBUkcTG2+tpNZ5gAAADcUlEQVRoge2b0baqIBCGEUbDdIelW03T3v8tD+ayMgdR1wbWOvlfdCPxNSDDzBDEeygKm/OFmNfl3IRRjyQPbsApB7BABpCkIBrIScssQF9ibdKTk5RbBRPC06QjR61tsES3kSQHdoe6Fws8Etm3uBOPSEidkGlIGkc2N+RsYxlPBWdycUS24TFXSno5IcVtjwgwGv/6of8bC2GTDdlP6A0Kz5k1MAffe5dvy+yHOx+pqq2s+SlY7ma1BasBqgnY824Wwga5iWA6COPkOkLJeW0aLHCTpdGmt7RrriAnhocbagXYy1Oz7xgvVGQvNkwuleSjWW/ikNwoyYVZMpxV4Kg17MWEipwQw+QsVJBD0/kAjxVkw4tKit1Q8N18PtDlWsj7ZdiDPSSwJX00v0lKscMEXFpKN1kxHvAotpbnchK+2JFPLOZ8INLDLcmjPLkdUquhfsemdZqmtd0U40kHK4Wq/0DAOadUfmwZLy7Yu8T7uw2cqR9ylpG2KQ9BEJRNe8nYulUBvDiNVbzWM0D5+XB4B4HVjZ+/u4LcP17YCtP5OJPsdBr2CyDTDeXUG8ZaH4mYc/9nseNF98mhjEMxp9495GT6ewdPtDQTpViWMWQYDOtfxoYiVmUInd3xMrO3kIU6cOxbLEJvIF81YNlkyZ6znlyoE5NXmwUxzXpyOTPHg5akZevJeMb9obt+qteTl0mfHZkiV1qjTZH1iZkx8l1XSzRG9nRxhjlyqRluc2RdUridnCfVvarUbiXSTPRWclKmPMsykTZY+fIhzcHFRvKJ0r5foHSaHvXSOJNt5MP1rQt2xBv9zjuTTWT/OuojO6Gtwr8nJ/RjBjN0F6nmt8ot5ONnl3jhNpmPwTeQk4l3ghQ1et6LbSAj58jZ9EhCar6ytYGMFOnwhvMLej0ZK9JRNCicD4nWk2+IP8bL1fPnvuvJJ2SZQouR41kntiH2RJYp/GAv91+TMXdsifyNNu/knWyWvK+q7yDv82yTvI/2d5D3ef4O8j7PNsn7aO/kFWQ02x8uEQissIhWAmqs8jpfMwC4T77x/AcNkGmHd9QQrCKmqQESEGU4Vpk9fyvw4POh4pyXFeGkm3mwFKcjjU++6czDcS9iaUvrcvc/fXd3E9zdx3B3B8XdvRt3d40c3q9yd6fM4T06h3cHPSf3Jf8BgA0/M+S7FpMAAAAASUVORK5CYII=" width="40" height="40"/>](https://www.linkedin.com/in/pablo-osorio-developer/)
 
 
 <!--
@@ -61,5 +61,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![copy](https://user-images.githubusercontent.com/85521026/208951587-2c9f959f-6c6c-4bae-995c-2d9a2844525a.png)
-
+-->
