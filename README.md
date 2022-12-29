@@ -8,25 +8,27 @@ Me : ["I'm a Backend(python) developer",
        "Obsessed with expanding my knowledge",
        "Cat lover"]
  
-"Languajes" : [
-              {"Python":{
-                            Frameworks : [
-                                    "Django",
-                                    "Django rest-framework",
-                                    "Flask",
-                                    "SQLAlquemy"
-                        ]},
-              "Golang": {
-                            Frameworks: [
-                                    "Gin", "Gorm"        
-                        ]},    
-                        
-              "SQL",
-              "C(Pure)",
-              "Bash($)",
-              "JavaScript Vanilla(Basic)"
-              ]
-"Frameworks" : [ ,   "Gin", "Gorm" ]
+"Languajes" : [{
+    "Python": {
+        "Frameworks": [
+            "Django",
+            "Django rest-framework",
+            "Flask",
+            "SQLAlquemy"
+        ]},
+    "Golang": {
+        "Frameworks": [
+            "Gin",
+            "Gorm"
+        ]},
+    "JavaScript": [
+        "React.js",
+        "React Redux"
+    ]},
+    "SQL",
+    "C(Pure)",
+    "Bash($)"
+]
 "Soft_skills" : [
                 "Self_study."
                 "Leadership."
