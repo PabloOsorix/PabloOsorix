@@ -9,15 +9,24 @@ Me : ["I'm a Backend(python) developer",
        "Cat lover"]
  
 "Languajes" : [
-              "Python",
-              "Golang",
+              {"Python":{
+                            Frameworks : [
+                                    "Django",
+                                    "Django rest-framework",
+                                    "Flask",
+                                    "SQLAlquemy"
+                        ]},
+              "Golang": {
+                            Frameworks: [
+                                    "Gin", "Gorm"        
+                        ]},    
+                        
               "SQL",
               "C(Pure)",
               "Bash($)",
-              "Shell script",
               "JavaScript Vanilla(Basic)"
               ]
-"Frameworks" : [ "Django", "Django rest-framework", "Flask", "SQLAlquemy",   "Gin", "Gorm" ]
+"Frameworks" : [ ,   "Gin", "Gorm" ]
 "Soft_skills" : [
                 "Self_study."
                 "Leadership."
