@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloOsorix&layout=compact&hide=HTML&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Last Projects.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloOsorix&repo=nequi_api_client_python&theme=github_dark&show_owner=PabloOsorix)](https://github.com/PabloOsorix/nequi_api_client-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloOsorix&repo=nequi_api_client_python&theme=github_dark&show_owner=PabloOsorix)](https://github.com/PabloOsorix/nequi_api_client_python)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloOsorix&repo=AirBnB_clone_v4&theme=github_dark&show_owner=PabloOsorix)](https://github.com/PabloOsorix/AirBnB_clone_v4)
 
